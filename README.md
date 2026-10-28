@@ -3,7 +3,7 @@
 </div>
 
 
-**Hola soy****BrandonParada2907/BrandonParada2907** 
+**Hola soy** **BrandonParada2907/BrandonParada2907** 
 
 Here are some ideas to get you started:
 
