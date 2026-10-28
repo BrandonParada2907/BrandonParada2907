@@ -4,8 +4,12 @@
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  width = 50px
 </p>
+<div align="center">
+  
+#  Hola soy Brandon Parada
+Este texto también está en el medio.
 
-#<center> Hola soy Brandon Parada</center>
+</div>
 
 Here are some ideas to get you started:
 
