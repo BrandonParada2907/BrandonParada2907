@@ -1,5 +1,6 @@
 <div align="center">
 <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=header&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=blinking&rotate=0&stroke=A3DCBE&descSize=20&descAlign=50&descAlignY=60 />
+   &color = grandient
    {
     "idx": 18,
     "color": {
