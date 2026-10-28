@@ -7,7 +7,6 @@
 <div align="center">
   
 #  Hola soy Brandon Parada
-Este texto también está en el medio.
 
 </div>
 
