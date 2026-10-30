@@ -8,7 +8,7 @@
 <div align="center">
   
 #  Hola 
-##   Soy Brandon Parada
+   Soy Brandon Parada
 
 </div>
 
