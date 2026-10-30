@@ -12,5 +12,5 @@
 
 </div>
 
-Hola soy Brandon Parada estudiante de análisis y desarrollo de software en el Sena 
+Hola soy Brandon Parada aprendiz de análisis y desarrollo de software en el Sena 
 
