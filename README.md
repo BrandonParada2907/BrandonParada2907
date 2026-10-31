@@ -16,5 +16,10 @@ Hola soy Brandon Parada aprendiz de análisis y desarrollo de software en el Sen
 Me apasiona la tecnología y me gusta estar pendiente de las nuevas tecnologías que van saliendo en el día a día
 en este campo, actualmente estoy aprendiendo Python y quiero crear soluciones que sean eficientes y satisfactorias.
 
+## Tecnologias
+<p align = "center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</p>
+
 
 
