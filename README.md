@@ -14,7 +14,7 @@
 
 Hola soy Brandon Parada aprendiz de análisis y desarrollo de software en el Sena.
 Me apasiona la tecnología y me gusta estar pendiente de las nuevas tecnologías que van saliendo en el día a día
-en este campo, actualmente estoy aprendiendo Python y quiero crear soluciones que sean eficientes y satisfactorias.
+en este campo, actualmente estoy aprendiendo Python y busco crear soluciones que sean eficientes y satisfactorias.
 
 ## Tecnologias
 <p align = "center">
