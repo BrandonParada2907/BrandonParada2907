@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td width="600">
+    <td width="600" style="border: none;">
 Hola soy Brandon Parada aprendiz de análisis y desarrollo de software en el Sena.
 Me apasiona la tecnología y me gusta estar pendiente de las nuevas tecnologías que van saliendo en el día a día
 en este campo, actualmente estoy aprendiendo Python y busco crear soluciones que sean eficientes y satisfactorias.
