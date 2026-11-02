@@ -12,15 +12,10 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="600" style="border: none;">
-Hola soy Brandon Parada aprendiz de análisis y desarrollo de software en el Sena.
+Hola soy Brandon Parada aprendiz de análisis y desarrollo de software en el Sena.<br>
 Me apasiona la tecnología y me gusta estar pendiente de las nuevas tecnologías que van saliendo en el día a día
 en este campo, actualmente estoy aprendiendo Python y busco crear soluciones que sean eficientes y satisfactorias.
-    </td>
-  </tr>
-</table>
+   
 
 ## Tecnologias
 <p align = "center">
