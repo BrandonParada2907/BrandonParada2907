@@ -13,7 +13,7 @@
 </div>
 <div align="center">
 Hola soy Brandon Parada aprendiz de análisis y desarrollo de software en el Sena.<br>
-Me apasiona la tecnología y Me interesa interesa el campo de la ciberseguridad y los datos,<br>
+Me apasiona la tecnología y me interesa interesa el campo de la ciberseguridad y los datos,<br>
 actualmente estoy aprendiendo Python y busco crear soluciones que sean eficientes y satisfactorias.
 
 </div>
